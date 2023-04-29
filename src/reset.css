@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: 'Public Sans';
+    src: url(../font/PublicSans-Italic-VariableFont_wght.ttf), url(../font/PublicSans-VariableFont_wght.ttf);
+}
+
+body{
+    background: #E5E5E5;
+    width: 8440px;
+    height: 5189px;
+    
+}
+
+#content {
+    transform: scale(0.30);
+    transform-origin: 0 0;
+}
